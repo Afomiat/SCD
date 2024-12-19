@@ -1,4 +1,3 @@
-project link: https://github.com/RealEskalate/a2sv-g5-project-phase-starter-project.git
-
+project link: (https://github.com/Afomiat/Blog.git)
 
 
